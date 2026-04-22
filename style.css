@@ -4,7 +4,7 @@ body{
 }
 .header{
   text-align: center;
-  color: #ffffff;
+  color: #e07373;
 }
 .container{
   display: flex;
@@ -30,7 +30,7 @@ input,textarea,select{
 .submit{
   padding: 10px;
   cursor: pointer;
-  background-color: #007bff;
+  background-color: #1f5ea1;
   color: white;
   border: none;
   border-radius: 4px;
@@ -38,7 +38,7 @@ input,textarea,select{
   margin-top: 10px;
 }
 .submit:hover{
-  background-color: #0050a5;
+  background-color: #04182e;
 }
 label{
   font-size: 13px;
@@ -47,7 +47,7 @@ label{
   display: block;
 }
 .event_card{
-  border: 1px solid #d4cece;
+  border: 1px solid #620909;
   padding: 10px;
   margin-top: 10px;
   position: relative;
